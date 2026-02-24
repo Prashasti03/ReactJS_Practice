@@ -1,0 +1,21 @@
+#root{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: beige;
+    justify-content: center;
+}
+
+.card{
+    height: 310px;
+    width: 300px;
+    border: 2px solid green;
+    margin: 10px;
+    padding: 10px;
+    background-color: rgba(255, 127, 80, 0.5);
+    border-radius: 2rem;
+}
+
+.btn{
+    font-weight: bold;
+    border-radius: 1%;
+}

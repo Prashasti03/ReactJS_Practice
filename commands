@@ -1,0 +1,20 @@
+To install react -
+    npm install -g create-react-app
+
+To check the version of react -
+    create-react-app --version
+
+To create Application in react -
+    create-react-app app_name
+
+    cd app_name
+
+    npm start
+
+To create app using Vite
+    npm create vite@latest app_name
+    cd app_name
+    npm run dev
+
+To install React router
+    npm install react-router-dom

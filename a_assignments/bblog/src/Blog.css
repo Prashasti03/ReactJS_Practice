@@ -1,0 +1,10 @@
+.blog-container {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.blog-image {
+  width: 150px;
+  height: 150px;
+  border-radius: 6px;
+  margin-bottom: 15px;
+}

@@ -1,0 +1,54 @@
+const Sdata=[
+    {
+        id:1,
+        imgsrc:'girl.jpg',
+        name:'Aayushi',
+        rollno:'01',
+        subject:'Java',
+        marks:92,
+        grade:'O',
+        resultStatus:'Pass'
+    },
+    {
+        id:2,
+        imgsrc:'boy.png',
+        name:'Baban',
+        rollno:'02',
+        subject:'Python',
+        marks:88,
+        grade:'A+',
+        resultStatus:'Pass'
+    },
+    {
+        id:3,
+        imgsrc:'boy.png',
+        name:'Chetan',
+        rollno:'03',
+        subject:'Java',
+        marks:76,
+        grade:'A',
+        resultStatus:'Pass'
+    },
+    {
+        id:4,
+        imgsrc:'girl.jpg',
+        name:'Disha',
+        rollno:'04',
+        subject:'Data Science',
+        marks:85,
+        grade:'A+',
+        resultStatus:'Pass'
+    },
+    {
+        id:5,
+        imgsrc:'boy.png',
+        name:'Ganesh',
+        rollno:'05',
+        subject:'Java',
+        marks:25,
+        grade:'F',
+        resultStatus:'Fail'
+    },
+]
+
+export default Sdata;
