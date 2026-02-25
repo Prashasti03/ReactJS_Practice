@@ -2,7 +2,7 @@ import React from 'react'
 
 // Here App() is a component (functional component)
 // there two types of components in React: 1. functional components( frequently used), 2. Class components(difficult, therefore less used)
-// DOM can perform 4 types of manipulation - 1. attribute, 2. CSS, 3. value, 4. 
+// DOM can perform 4 types of manipulation - 1. attribute, 2. CSS, 3. value, 4. html
 function App() {
   let name = 'Prashasti';
   let bcode = 'PS217';
