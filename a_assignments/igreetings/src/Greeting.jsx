@@ -15,7 +15,6 @@ function Greeting() {
   return (
     <div style={styles.container}>
       <h1>{message}</h1>
-      {/* <p>Current Time: {currentHour}:00</p> */}
       <p>Current Time: {time}</p>
     </div>
   );
